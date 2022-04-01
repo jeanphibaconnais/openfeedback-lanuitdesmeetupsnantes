@@ -1,48 +1,191 @@
 {
   "sessions": {
-      "1": {
-          "speakers": [
-              "adrienlassellesfeir"
-          ],
-          "tags": [
-              "Blockchain et société"
-          ],
-          "title": "Une initiation à la Blockchain",
-          "id": "1",
-          "startTime": "2022-04-08T19:00:00+02:00",
-          "endTime": "2022-04-08T19:20:00+02:00",
-          "trackTitle": "TBC"
-      },
-      "2": {
-        "speakers": [
-            "agnesmauryagnesm"
-        ],
-        "tags": [
-            "JUG"
-        ],
-        "title": "Ivre et au chômage, elle décide d'écrire un livre sur le Scala en plein Covid",
-        "id": "2",
-        "startTime": "2022-04-08T22:00:00+02:00",
-        "endTime": "2022-04-08T22:20:00+02:00",
-        "trackTitle": "TBC"
+    "1": {
+      "speakers": [
+        "adrienlasselle"
+      ],
+      "tags": [
+        "Blockchain et société"
+      ],
+      "title": "Une initiation à la Blockchain",
+      "id": "1",
+      "startTime": "2022-04-08T19:00:00+02:00",
+      "endTime": "2022-04-08T19:20:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "2": {
+      "speakers": [
+        "agnesmaury"
+      ],
+      "tags": [
+        "Nantes JUG"
+      ],
+      "title": "Ivre et au chômage, elle décide d'écrire un livre sur le Scala en plein Covid",
+      "id": "2",
+      "startTime": "2022-04-08T22:00:00+02:00",
+      "endTime": "2022-04-08T22:20:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "3": {
+      "speakers": [
+        "benjamindemonet"
+      ],
+      "tags": [
+        "Nantes Numérique Responsable"
+      ],
+      "title": "La planète brûle, tous dans le métavers !",
+      "id": "3",
+      "startTime": "2022-04-08T20:00:00+02:00",
+      "endTime": "2022-04-08T20:20:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "4": {
+      "speakers": [
+        "bertrandpresles"
+      ],
+      "tags": [
+        "AFUP Nantes"
+      ],
+      "title": "PHP, Passez la 8ème",
+      "id": "4",
+      "startTime": "2022-04-08T20:30:00+02:00",
+      "endTime": "2022-04-08T20:20:50+02:00",
+      "trackTitle": "TBC"
+    },
+    "5": {
+      "speakers": [
+        "brunobonnin"
+      ],
+      "tags": [
+        "Sponsor"
+      ],
+      "title": "R2D2 + JDBC (enfin presque...)",
+      "id": "5",
+      "startTime": "2022-04-08T19:00:00+02:00",
+      "endTime": "2022-04-08T20:19:20+02:00",
+      "trackTitle": "TBC"
+    },
+    "6": {
+      "speakers": [
+        "cedricgauthier"
+      ],
+      "tags": [
+        "Hashicorp User Group"
+      ],
+      "title": "Déployer via Terraform & Gitlab-ci, sécuriser avec Checkov",
+      "id": "6",
+      "startTime": "2022-04-08T22:30:00+02:00",
+      "endTime": "2022-04-08T20:22:50+02:00",
+      "trackTitle": "TBC"
+    },
+    "7": {
+      "speakers": [
+        "damienlecan"
+      ],
+      "tags": [
+        "Blockchain et société"
+      ],
+      "title": "La nouvelle ère des jeux vidéos",
+      "id": "7",
+      "startTime": "2022-04-08T22:00:00+02:00",
+      "endTime": "2022-04-08T20:22:20+02:00",
+      "trackTitle": "TBC"
+    },
+    "8": {
+      "speakers": [
+        "davidpanza"
+      ],
+      "tags": [
+        "Software Crafters"
+      ],
+      "title": "Le domain storytelling pour mieux comprendre nos produits",
+      "id": "8",
+      "startTime": "2022-04-08T19:00:00+02:00",
+      "endTime": "2022-04-08T20:19:20+02:00",
+      "trackTitle": "TBC"
+    },
+    "9": {
+      "speakers": [
+        "davidremaud"
+      ],
+      "tags": [
+        "Nantes Numérique Responsable"
+      ],
+      "title": "Les infrastructures réseaux et le Numérique Responsable",
+      "id": "9",
+      "startTime": "2022-04-08T22:30:00+02:00",
+      "endTime": "2022-04-08T20:22:50+02:00",
+      "trackTitle": "TBC"
+    },
+    "10": {
+      "speakers": [
+        "davidbonnet"
+      ],
+      "tags": [
+        "Cocoaheads Nantes"
+      ],
+      "title": "BFF de la logique multiplateforme",
+      "id": "10",
+      "startTime": "2022-04-08T21:30:00+02:00",
+      "endTime": "2022-04-08T20:21:50+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
-      "adrienlassellesfeir": {
-          "name": "Adrien Lasselle",
-          "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-adrien-lasselle-speaker-cantine-nantes.png",
-          "socials": [
-              {
-                  "name": "twitter",
-                  "link": "https://twitter.com/AdrienLASSELLE"
-              }
-          ],
-          "id": "adrienlassellesfeir"
-      },
-      "agnesmauryagnesm": {
-        "name": "Agnes Maury",
-        "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-agnes-maury-speaker-cantine-nantes-1.jpg",
-        "id": "agnesmauryagnesm"
+    "adrienlasselle": {
+      "name": "Adrien Lasselle",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-adrien-lasselle-speaker-cantine-nantes.png",
+      "socials": [
+        {
+          "name": "twitter",
+          "link": "https://twitter.com/AdrienLASSELLE"
+        }
+      ],
+      "id": "adrienlasselle"
+    },
+    "agnesmaury": {
+      "name": "Agnes Maury",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-agnes-maury-speaker-cantine-nantes-1.jpg",
+      "id": "agnesmaury"
+    },
+    "benjamindemonet": {
+      "name": "Benjamin Demonet",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-benjamin-demonet-speaker-cantine-nantes.jpg",
+      "id": "benjamindemonet"
+    },
+    "bertrandpresles": {
+      "name": "Bertrand Presles",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-bertrand-presles-speaker-cantine-nantes.jpg",
+      "id": "bertrandpresles"
+    },
+    "brunobonnin": {
+      "name": "Bruno Bonnin",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-bruno-bonnin-speaker-cantine-nantes.jpg",
+      "id": "brunobonnin"
+    },
+    "cedricgauthier": {
+      "name": "Cédric Gauthier",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-cedric-gauthier-speaker-cantine-nantes.jpg",
+      "id": "cedricgauthier"
+    },
+    "damienlecan": {
+      "name": "Damien Lecan",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-damien-lecan-speaker-cantine-nantes.jpg",
+      "id": "damienlecan"
+    },
+    "davidpanza": {
+      "name": "David Panza",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-david-panza-speaker-cantine-nantes.jpg",
+      "id": "davidpanza"
+    },
+    "davidremaud": {
+      "name": "David Remaud",
+      "id": "davidremaud"
+    },
+    "davidbonnet": {
+      "name": "David Bonnet",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-david-bonnet-speaker-cantine-nantes.jpg",
+      "id": "davidbonnet"
     }
   }
 }
