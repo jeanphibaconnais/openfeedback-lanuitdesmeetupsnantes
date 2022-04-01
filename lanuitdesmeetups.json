@@ -142,6 +142,19 @@
       "startTime": "2022-04-08T20:30:00+02:00",
       "endTime": "2022-04-08T20:20:50+02:00",
       "trackTitle": "TBC"
+    },
+    "12": {
+      "speakers": [
+        "jeanphilippebaconnais"
+      ],
+      "tags": [
+        "Human Talks"
+      ],
+      "title": "🗣 Et si vous aussi vous deveniez “speaker”",
+      "id": "12",
+      "startTime": "2022-04-08T21:30:00+02:00",
+      "endTime": "2022-04-08T20:21:50+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -204,6 +217,11 @@
       "name": "Etienne Jeanneau",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-etienne-jeanneau-speaker-cantine-nantes.jpg",
       "id": "etiennejeanneau"
+    },
+    "jeanphilippebaconnais": {
+      "name": "Jean-Philippe Baconnais",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-jean-philippe-baconnais-speaker-cantine-nantes-150x150.jpg",
+      "id": "jeanphilippebaconnais"
     }
   }
 }
