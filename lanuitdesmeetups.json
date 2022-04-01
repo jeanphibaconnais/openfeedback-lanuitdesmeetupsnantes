@@ -194,6 +194,20 @@
       "startTime": "2022-04-08T19:30:00+02:00",
       "endTime": "2022-04-08T19:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "16": {
+      "speakers": [
+        "maximelumeau",
+        "pierretibulle"
+      ],
+      "tags": [
+        "GDG Nantes Android"
+      ],
+      "title": "Panorama des technos de dev mobile",
+      "id": "16",
+      "startTime": "2022-04-08T20:30:00+02:00",
+      "endTime": "2022-04-08T20:50:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -275,7 +289,12 @@
     "ludovicdouaud": {
       "name": "Ludovic Douaud",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-ludovic-douaud-speaker-cantine-nantes.jpg",
-      "id": "julienvilleneau"
+      "id": "ludovicdouaud"
+    },
+    "maximelumeau": {
+      "name": "Maxime Lumeau",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-maxime-lumeau-speaker-cantine-nantes.jpg",
+      "id": "maximelumeau"
     }
   }
 }
