@@ -12,11 +12,24 @@
           "startTime": "2022-04-08T19:00:00+02:00",
           "endTime": "2022-04-08T19:20:00+02:00",
           "trackTitle": "TBC"
-      }
+      },
+      "2": {
+        "speakers": [
+            "agnesmauryagnesm"
+        ],
+        "tags": [
+            "JUG"
+        ],
+        "title": "Ivre et au chômage, elle décide d'écrire un livre sur le Scala en plein Covid",
+        "id": "2",
+        "startTime": "2022-04-08T22:00:00+02:00",
+        "endTime": "2022-04-08T22:20:00+02:00",
+        "trackTitle": "TBC"
+    }
   },
   "speakers": {
       "adrienlassellesfeir": {
-          "name": "Adrien LASSELLE",
+          "name": "Adrien Lasselle",
           "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-adrien-lasselle-speaker-cantine-nantes.png",
           "socials": [
               {
@@ -25,6 +38,11 @@
               }
           ],
           "id": "adrienlassellesfeir"
-      }
+      },
+      "agnesmauryagnesm": {
+        "name": "Agnes Maury",
+        "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-agnes-maury-speaker-cantine-nantes-1.jpg",
+        "id": "agnesmauryagnesm"
+    }
   }
 }
