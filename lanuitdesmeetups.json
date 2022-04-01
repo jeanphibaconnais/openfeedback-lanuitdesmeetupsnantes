@@ -150,10 +150,23 @@
       "tags": [
         "Human Talks"
       ],
-      "title": "🗣 Et si vous aussi vous deveniez “speaker”",
+      "title": "🗣 Et si vous aussi vous deveniez “speaker",
       "id": "12",
       "startTime": "2022-04-08T21:30:00+02:00",
       "endTime": "2022-04-08T20:21:50+02:00",
+      "trackTitle": "TBC"
+    },
+    "13": {
+      "speakers": [
+        "julientanguy"
+      ],
+      "tags": [
+        "Human Talks"
+      ],
+      "title": "Suivez vos applications à la trace grâce à OpenTelemetry",
+      "id": "13",
+      "startTime": "2022-04-08T20:00:00+02:00",
+      "endTime": "2022-04-08T20:20:20+02:00",
       "trackTitle": "TBC"
     }
   },
@@ -222,6 +235,11 @@
       "name": "Jean-Philippe Baconnais",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-jean-philippe-baconnais-speaker-cantine-nantes-150x150.jpg",
       "id": "jeanphilippebaconnais"
+    },
+    "julientanguy": {
+      "name": "Julien Tanguy",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-julien-tanguy-speaker-cantine-nantes.jpg",
+      "id": "julientanguy"
     }
   }
 }
