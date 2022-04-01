@@ -1,0 +1,30 @@
+{
+  "sessions": {
+      "1": {
+          "speakers": [
+              "adrienlassellesfeir"
+          ],
+          "tags": [
+              "Blockchain et société"
+          ],
+          "title": "Une initiation à la Blockchain",
+          "id": "1",
+          "startTime": "2022-04-08T19:00:00+02:00",
+          "endTime": "2022-04-08T19:20:00+02:00",
+          "trackTitle": "TBC"
+      }
+  },
+  "speakers": {
+      "adrienlassellesfeir": {
+          "name": "Adrien LASSELLE",
+          "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-adrien-lasselle-speaker-cantine-nantes.png",
+          "socials": [
+              {
+                  "name": "twitter",
+                  "link": "https://twitter.com/AdrienLASSELLE"
+              }
+          ],
+          "id": "adrienlassellesfeir"
+      }
+  }
+}
