@@ -129,6 +129,19 @@
       "startTime": "2022-04-08T21:30:00+02:00",
       "endTime": "2022-04-08T20:21:50+02:00",
       "trackTitle": "TBC"
+    },
+    "11": {
+      "speakers": [
+        "etiennejeanneau"
+      ],
+      "tags": [
+        "Hashicorp User Group"
+      ],
+      "title": "Introduction à Packer",
+      "id": "11",
+      "startTime": "2022-04-08T20:30:00+02:00",
+      "endTime": "2022-04-08T20:20:50+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -186,6 +199,11 @@
       "name": "David Bonnet",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-david-bonnet-speaker-cantine-nantes.jpg",
       "id": "davidbonnet"
+    },
+    "etiennejeanneau": {
+      "name": "Etienne Jeanneau",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-etienne-jeanneau-speaker-cantine-nantes.jpg",
+      "id": "etiennejeanneau"
     }
   }
 }
