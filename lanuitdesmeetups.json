@@ -260,6 +260,32 @@
       "startTime": "2022-04-08T19:30:00+02:00",
       "endTime": "2022-04-08T19:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "21": {
+      "speakers": [
+        "thomasrannou"
+      ],
+      "tags": [
+        "MTG Nantes"
+      ],
+      "title": "Je veux faire du PAAS mais mon ops ne veut pa(a)s !",
+      "id": "21",
+      "startTime": "2022-04-08T18:30:00+02:00",
+      "endTime": "2022-04-08T18:50:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "22": {
+      "speakers": [
+        "thomasboutin"
+      ],
+      "tags": [
+        "GDG Nantes Android"
+      ],
+      "title": "Révélez l'animal qui sommeille en vous avec une app Android et un peu de machine learning",
+      "id": "22",
+      "startTime": "2022-04-08T22:00:00+02:00",
+      "endTime": "2022-04-08T22:20:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -371,6 +397,16 @@
     "thibaultduperron": {
       "name": "Thibault Duperron",
       "id": "thibaultduperron"
+    },
+    "thomasrannou": {
+      "name": "Thomas Rannou",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-thomas-rannou-speaker-cantine-nantes.png",
+      "id": "thomasrannou"
+    },
+    "thomasboutin": {
+      "name": "Thomas Boutin",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-thomas-rannou-speaker-cantine-nantes.png",
+      "id": "thomasboutin"
     }
   }
 }
