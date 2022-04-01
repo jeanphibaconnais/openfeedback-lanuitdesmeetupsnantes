@@ -234,6 +234,32 @@
       "startTime": "2022-04-08T20:30:00+02:00",
       "endTime": "2022-04-08T20:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "19": {
+      "speakers": [
+        "soukikhamsyvoravong"
+      ],
+      "tags": [
+        "Software Crafters"
+      ],
+      "title": "Ceci n'est pas un produit",
+      "id": "19",
+      "startTime": "2022-04-08T21:30:00+02:00",
+      "endTime": "2022-04-08T21:50:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "20": {
+      "speakers": [
+        "thibaultduperron"
+      ],
+      "tags": [
+        "Nantes JUG"
+      ],
+      "title": "API contract-first",
+      "id": "20",
+      "startTime": "2022-04-08T19:30:00+02:00",
+      "endTime": "2022-04-08T19:50:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -336,6 +362,15 @@
       "name": "Sébastien Fauvel",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-sebastien-fauvel-speaker-cantine-nantes.jpg",
       "id": "sebastienfauvel"
+    },
+    "soukikhamsyvoravong": {
+      "name": "Souki Khamsyvoravong",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/screenshot-2022-03-14-at-22-56-24.png",
+      "id": "soukikhamsyvoravong"
+    },
+    "thibaultduperron": {
+      "name": "Thibault Duperron",
+      "id": "thibaultduperron"
     }
   }
 }
