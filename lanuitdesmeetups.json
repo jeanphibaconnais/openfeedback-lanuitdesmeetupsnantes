@@ -80,7 +80,8 @@
     },
     "7": {
       "speakers": [
-        "damienlecan"
+        "damienlecan",
+        "yandegive"
       ],
       "tags": [
         "Blockchain et société"
@@ -286,6 +287,19 @@
       "startTime": "2022-04-08T22:00:00+02:00",
       "endTime": "2022-04-08T22:20:00+02:00",
       "trackTitle": "TBC"
+    },
+    "23": {
+      "speakers": [
+        "xaviervandewoestyne"
+      ],
+      "tags": [
+        "Nantes Lambda"
+      ],
+      "title": "Programmer avec des produits, des sommes, des exponentiels et des constructeurs non-surjectifs",
+      "id": "23",
+      "startTime": "2022-04-08T18:30:00+02:00",
+      "endTime": "2022-04-08T18:50:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -405,8 +419,17 @@
     },
     "thomasboutin": {
       "name": "Thomas Boutin",
-      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-thomas-rannou-speaker-cantine-nantes.png",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-thomas-boutin-speaker-cantine-nantes.jpg",
       "id": "thomasboutin"
+    },
+    "xaviervandewoestyne": {
+      "name": "Xavier Van de Woestyne",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-xavier-van-de-woestyne-speaker-cantine-nantes.jpg",
+      "id": "xaviervandewoestyne"
+    },
+    "yandegive": {
+      "name": "Yan Degive",
+      "id": "yandegive"
     }
   }
 }
