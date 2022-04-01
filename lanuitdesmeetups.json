@@ -181,6 +181,19 @@
       "startTime": "2022-04-08T21:30:00+02:00",
       "endTime": "2022-04-08T21:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "15": {
+      "speakers": [
+        "ludovicdouaud"
+      ],
+      "tags": [
+        "MTG Nantes"
+      ],
+      "title": "Découvrir Azure Virtual Desktop (VDI)",
+      "id": "15",
+      "startTime": "2022-04-08T19:30:00+02:00",
+      "endTime": "2022-04-08T19:50:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -257,6 +270,11 @@
     "julienvilleneau": {
       "name": "Julien Villeneau",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-julien-villeneau-speaker-cantine-nantes.jpg",
+      "id": "julienvilleneau"
+    },
+    "ludovicdouaud": {
+      "name": "Ludovic Douaud",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-ludovic-douaud-speaker-cantine-nantes.jpg",
       "id": "julienvilleneau"
     }
   }
