@@ -221,6 +221,19 @@
       "startTime": "2022-04-08T22:30:00+02:00",
       "endTime": "2022-04-08T22:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "18": {
+      "speakers": [
+        "sebastienfauvel"
+      ],
+      "tags": [
+        "Software Crafters"
+      ],
+      "title": "Documenter pour tester",
+      "id": "18",
+      "startTime": "2022-04-08T20:30:00+02:00",
+      "endTime": "2022-04-08T20:50:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -313,6 +326,16 @@
       "name": "Olivier Itema",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/nuittalk-1536x1536.jpg",
       "id": "olivieritema"
+    },
+    "pierretibulle": {
+      "name": "Pierre Tibulle",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-pierre-tibulle-speaker-cantine-nantes.png",
+      "id": "pierretibulle"
+    },
+    "sebastienfauvel": {
+      "name": "Sébastien Fauvel",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-sebastien-fauvel-speaker-cantine-nantes.jpg",
+      "id": "sebastienfauvel"
     }
   }
 }
