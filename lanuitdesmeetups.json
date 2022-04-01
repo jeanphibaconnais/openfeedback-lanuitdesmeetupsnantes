@@ -208,6 +208,19 @@
       "startTime": "2022-04-08T20:30:00+02:00",
       "endTime": "2022-04-08T20:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "17": {
+      "speakers": [
+        "olivieritema"
+      ],
+      "tags": [
+        "Azure Nantes"
+      ],
+      "title": "La virtualisation VMware dans le cloud Azure",
+      "id": "17",
+      "startTime": "2022-04-08T22:30:00+02:00",
+      "endTime": "2022-04-08T22:50:00+02:00",
+      "trackTitle": "TBC"
     }
   },
   "speakers": {
@@ -295,6 +308,11 @@
       "name": "Maxime Lumeau",
       "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/photo-maxime-lumeau-speaker-cantine-nantes.jpg",
       "id": "maximelumeau"
+    },
+    "olivieritema": {
+      "name": "Olivier Itema",
+      "photoUrl": "https://i0.wp.com/www.lacantine.co/app/uploads/2022/03/nuittalk-1536x1536.jpg",
+      "id": "olivieritema"
     }
   }
 }
