@@ -86,7 +86,7 @@
       "tags": [
         "Blockchain et société"
       ],
-      "title": "La nouvelle ère des jeux vidéos",
+      "title": "Blockchain & Gaming : la nouvelle ère des jeux vidéos",
       "id": "7",
       "startTime": "2022-04-08T22:00:00+02:00",
       "endTime": "2022-04-08T22:20:00+02:00",
@@ -300,7 +300,61 @@
       "startTime": "2022-04-08T18:30:00+02:00",
       "endTime": "2022-04-08T18:50:00+02:00",
       "trackTitle": "TBC"
+    },
+    "24": {
+      "speakers": [
+        "nicolasdupont"
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "(Presque) tout quitter par amour de la data serverless",
+      "id": "24",
+      "startTime": "2022-04-08T19:30:00+02:00",
+      "endTime": "2022-04-08T19:50:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "25": {
+      "speakers": [
+        "noelbardelot"
+      ],
+      "tags": [
+        "DevOps Nantes"
+      ],
+      "title": "10 concepts vitaux en sécurité en 20min pour les DevSecOps",
+      "id": "25",
+      "startTime": "2022-04-08T20:00:00+02:00",
+      "endTime": "2022-04-08T20:20:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "26": {
+      "speakers": [
+        "sylvaintouret",
+        "thomassicard"
+      ],
+      "tags": [
+        "DevOps Nantes"
+      ],
+      "title": "Pilotez votre CI/CD à la voix avec Alexa",
+      "id": "26",
+      "startTime": "2022-04-08T22:00:00+02:00",
+      "endTime": "2022-04-08T22:20:00+02:00",
+      "trackTitle": "TBC"
+    },
+    "27": {
+      "speakers": [
+        "xaviervandewoestyne"
+      ],
+      "tags": [
+        "Nantes Lambda"
+      ],
+      "title": "Pratically unpractical Functional Programming for practically usable software",
+      "id": "27",
+      "startTime": "2022-04-08T22:30:00+02:00",
+      "endTime": "2022-04-08T22:50:00+02:00",
+      "trackTitle": "TBC"
     }
+    
   },
   "speakers": {
     "adrienlasselle": {
@@ -430,6 +484,22 @@
     "yandegive": {
       "name": "Yan Degive",
       "id": "yandegive"
+    },
+    "nicolasdupont": {
+      "name": "Nicolas Dupont",
+      "id": "nicolasdupont"
+    },
+    "noelbardelot": {
+      "name": "Noël Bardelot",
+      "id": "noelbardelot"
+    },
+    "sylvaintouret": {
+      "name": "Sylvain Touret",
+      "id": "sylvaintouret"
+    },
+    "thomassicard": {
+      "name": "Thomas Sicard",
+      "id": "thomassicard"
     }
   }
 }
